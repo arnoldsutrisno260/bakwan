@@ -4,7 +4,7 @@ compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 [[routes]]
-pattern = "img1.email.vidio.com.free.mamimamam.my.id"
+pattern = "img.email1.vidio.com.free.mamimamam.my.id"
 custom_domain = true
 [[routes]]
 pattern = "quiz.int.vidio.com.free.mamimamam.my.id"
